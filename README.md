@@ -17,3 +17,8 @@ Technologies Used
 `Redux`: A state management library for managing and centralizing application state.\
 `React Router`: Declarative routing for React applications.\
 `Tailwind CSS`: A utility-first CSS framework for rapid UI development.
+
+Deployment
+==================
+
+veryfastreactpizza.netlify.app
